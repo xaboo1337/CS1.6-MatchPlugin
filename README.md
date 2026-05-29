@@ -10,7 +10,7 @@
 > - ReAPI v5.24.0.300+
 
 ## Install
-1. Download latest release from [here]([https://github.com/ShadowsAdi/MixSystem/archive/main.ip](https://github.com/xaboo1337/CS-1.6-Match-Plugin.git))z.
+1. Download latest release from [here]([https://github.com/ShadowsAdi/MixSystem/archive/main.ip](https://github.com/xaboo1337/CS-1.6-Match-Plugin.git))
 2. Make sure the server runs on minimum requirements (run commands in server's console: 'version', 'game version', 'meta list').
 3. Extract the *Match Plugin* archive and drag and drop files in your 'cstrike/addons/amxmodx' folder on your server (.amxx).
 
