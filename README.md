@@ -16,7 +16,7 @@
 
 ## This system includes the following functionalities:
 
-- 100% customizable settings from an external file (from chat/console command names to player weapons during the warm-up round).
+- 100% customizable settings from an external file (from chat/console command).
 - Commands for:
   - Starting/stopping the frag.
   - Starting/stopping the mix.
